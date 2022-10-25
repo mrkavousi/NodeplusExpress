@@ -1,0 +1,5 @@
+
+Simple Login and Registration with ExpressJS, Sequelize, bcrypt and JWT
+https://www.weblearningblog.com/nodejs/simple-login-and-registration-with-expressjs-sequelize-bcrypt-and-jwt/
+
+
